@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 🔭 I’m currently working on **Movies App**
+- 🔭 I’m currently working on **Productivity App**
 
 
 
