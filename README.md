@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujasingh014&label=Profile%20views&color=0e75b6&style=flat" alt="pujasingh014" /> </p>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Blockchain & Web 3.0**
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 I’m currently working on **Smart Contracts**
 
 
 
