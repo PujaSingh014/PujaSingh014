@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujasingh014&label=Profile%20views&color=0e75b6&style=flat" alt="pujasingh014" /> </p>
 
-- 🌱 I’m currently learning **React.js & Node.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🔭 I’m currently working on some basic **full stack web development projects**
 
