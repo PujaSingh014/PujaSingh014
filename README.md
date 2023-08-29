@@ -1,9 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Puja Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <h4 align="center"><a href="https://pujasingh.netlify.app/">Visit my Portfolio Website</a></h4>
-<img align="right" alt="Eat Sleep Code Repeat" width="400" src="https://media1.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47p6wq5i2tuo2btp4nsljhtn6lofrqv7ec9ihvfhse&rid=giphy.gif&ct=g">
+
+<img align="right" alt="Eat Sleep Code Repeat" width="500" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujasingh014&label=Profile%20views&color=0e75b6&style=flat" alt="pujasingh014" /> </p>
+
 
 
 
